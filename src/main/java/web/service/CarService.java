@@ -1,4 +1,4 @@
-package web.sevice;
+package web.service;
 
 import org.springframework.stereotype.Component;
 import web.models.Car;
